@@ -18,13 +18,13 @@ A [React](https://facebook.github.io/react/) component for reading QR codes from
 
 ## Install
 
-`npm install --save react-qr-reader`
+`npm install --save introkun-react-qr-reader`
 
 ## Example
 
 ```js
 import React, { Component } from 'react'
-import QrReader from 'react-qr-reader'
+import QrReader from 'introkun-react-qr-reader'
 
 class Test extends Component {
   state = {
