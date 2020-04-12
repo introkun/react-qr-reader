@@ -1,5 +1,5 @@
 {
-  "name": "react-qr-reader",
+  "name": "introkun-react-qr-reader",
   "version": "2.2.1",
   "description": "A react component for reading QR codes from the webcam.",
   "main": "./lib/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JodusNodus/react-qr-reader.git"
+    "url": "git+https://github.com/introkun/react-qr-reader.git"
   },
   "keywords": [
     "react",
@@ -23,9 +23,9 @@
   "author": "thomas billiet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JodusNodus/react-qr-reader/issues"
+    "url": "https://github.com/introkun/react-qr-reader/issues"
   },
-  "homepage": "https://github.com/JodusNodus/react-qr-reader#readme",
+  "homepage": "https://github.com/introkun/react-qr-reader#readme",
   "devDependencies": {
     "@storybook/addon-actions": "^3.4.11",
     "@storybook/addon-links": "^3.4.11",
