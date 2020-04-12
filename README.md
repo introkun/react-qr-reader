@@ -1,4 +1,5 @@
-[![npm version](https://badge.fury.io/js/react-qr-reader.svg)](https://badge.fury.io/js/react-qr-reader)
+[![npm version](https://badge.fury.io/js/introkun-react-qr-reader.svg)](https://badge.fury.io/js/introkun-react-qr-reader)
+![Node.js CI](https://github.com/introkun/react-qr-reader/workflows/Node.js%20CI/badge.svg)
 
 ## Introduction
 
